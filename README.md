@@ -1,11 +1,13 @@
-## ⚖️ LawPrep Tool – Interface Design Preview
+## ⚖️ LegisAI – Interface Design Preview
 
-🧠 **LawPrep Tool** is a smart legal research and document handling assistant designed to help students, legal professionals, and researchers work more efficiently. Below is a glimpse of its user-friendly and intuitive interface:
+🧠 **LegisAI** is a smart legal research and document handling assistant designed to help students, legal professionals, and researchers work more efficiently. Below is a glimpse of its user-friendly and intuitive interface:
 
 <p align="center">
-  <img src="Screenshot 2025-07-27 144516.jpg" alt="LawPrep Tool Interface" width="800"/>
-</p>
+  
+![WhatsApp Image 2025-08-26 at 14 17 43_9ad796e7](https://github.com/user-attachments/assets/45beedb4-1b6b-49c8-b95a-d0fb9b63b7cf)
 
+![WhatsApp Image 2025-08-26 at 14 17 30_f4584ef3](https://github.com/user-attachments/assets/2ab1b9b5-3f3d-46f5-a77c-e190ee540931)
+</p>
 --- 
 
 ### 🔍 User Flow
